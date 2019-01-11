@@ -19,5 +19,13 @@ This project uses Python to explore bike share systems data for three major US c
 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I would like to thank the Udacity Team and credit the following links used to help complete the project:
+* Using join with split
+https://stackoverflow.com/questions/2077897/substitute-multiple-whitespace-with-single-whitespace-in-python
+* Using rounding for decimal precision
+https://gist.github.com/jackiekazil/6201722
+* Using value counts to get a breakdown of a given dataframe column:
+https://cmdlinetips.com/2018/02/how-to-get-frequency-counts-of-a-column-in-pandas-dataframe/
+* Reading rows directly from CSV file
+https://stackoverflow.com/questions/26464567/csv-read-specific-row
 
