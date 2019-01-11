@@ -6,7 +6,7 @@ This project was created by Ruchi B on August 14 2018.
 Explore US Bikeshare Data 
 
 ### Description
-Describe what your project is about and what it does
+This project uses Python to explore bike share systems data for three major US cities —Chicago, New York City, and Washington
 
 ### Files used
 Include the files used
