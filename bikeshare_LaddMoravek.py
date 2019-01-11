@@ -30,7 +30,7 @@ def get_filters():
                 print('You selected {}'.format(city.title()))
                 city_correct = True
             else:
-                print('That is not a valid city name!')
+                print('Oops! That is not a valid city name!')
                 print('Please enter either New York City, Chicago, or Washington AND check your spelling!')
   
 
